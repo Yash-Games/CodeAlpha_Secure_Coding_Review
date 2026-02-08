@@ -6,12 +6,13 @@ if username == "admin" and password == "admin123":
 else:
     print("Invalid credentials")
 
-#❌ Why this is insecure
+# Why this is insecure
 
 #Password is hardcoded
 
 #Password is in plain text
 
 #Anyone reading code knows the password
+
 
 #No protection against brute force
